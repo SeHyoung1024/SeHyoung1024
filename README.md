@@ -1,6 +1,6 @@
 <!-- Header -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=%21%21+Hello+World+%21%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&text=%21%21+Hello+World+%21%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeHyoung1024&count_bg=%23A58DD0&title_bg=%23555555&icon=&icon_color=%23EA5A5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
