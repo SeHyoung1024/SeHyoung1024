@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeHyoung1024&count_bg=%23A58DD0&title_bg=%23555555&icon=&icon_color=%23EA5A5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙇 Full-Stack 공부하는   코린이 이세형 입니다 ~!! 
+### 🙇 Full-Stack 개발자를 꿈꾸는 코린이 이세형 입니다 !! 
 
 <!-- Body -->
 
