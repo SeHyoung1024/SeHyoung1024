@@ -21,8 +21,8 @@
 
 **🛠️ Infra and Tools**
 
-[![Velog](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white) ](http://naver.com)
+[![Velog](https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white) ](https://velog.io/@ddd376/posts)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+[![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SeHyoung1024)
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
