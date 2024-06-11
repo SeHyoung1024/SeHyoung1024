@@ -1,12 +1,10 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=%21%21+Hello+World+%21%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=&descSize=20&descAlign=50&descAlignY=60)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeHyoung1024&count_bg=%23A58DD0&title_bg=%23555555&icon=&icon_color=%23EA5A5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙇 Hello World !! <br>
-**Full-Stack 공부하는 코린이 <br>**
-**이세형 입니다 ~!!** 
+### 🙇 Full-Stack 공부하는   코린이 이세형 입니다 ~!! 
 
 <!-- Body -->
 
